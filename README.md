@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-cassius
 - 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning python and machine learning
+- 🌱 I’m currently developing my skills with machine learning (keras)
 - 💞️ I’m looking to collaborate on any cool project, (I guess)
 - 📫 How to reach me leandro.the.cassius@gmail.com or on my linkedin
 
